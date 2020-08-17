@@ -26,3 +26,4 @@ Now that there is only 1 device to control the panel, there in no more syncronis
 
 <img src="https://drive.google.com/uc?export=view&id=1UV1w-VNGknujMfFwQaMb4J9AQgGO6ySy"  width="400">
 <iframe src="https://drive.google.com/file/d/1UEGm_TBCiwB-6LCpGbMTuL6lmLDx_gqd/preview" width="640" height="480"></iframe>
+[![Alternate Text]({image-url})]({https://drive.google.com/file/d/1UEGm_TBCiwB-6LCpGbMTuL6lmLDx_gqd/preview} "Link Title")
