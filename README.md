@@ -33,17 +33,17 @@ Now that there is only 1 device to control the panel, there in no more syncronis
 # Random photos
 
 <img src="Images/6.jpg"  width="600">  
-3 blocks made the same day.
+3 blocks made the same day.  
 
 <img src="Images/7.jpg"  width="600">  
-"Cables Management".
+"Cables Management".  
 
 <img src="Images/8.jpg"  width="600">  
-The whole 4 blocks panel from the back.
+The whole 4 blocks panel from the back.  
 
 <img src="Images/9.jpg"  width="600">  
 14 resistances for the 14 leds by set of 2 columns (on the left).  
-12 resistances for the 4 blocks with 3 set of 2 columns each (on the center).
+12 resistances for the 4 blocks with 3 set of 2 columns each (on the center).  
 
 <img src="Images/10.jpg"  width="600">  
-Litle "T" connector that allow to have 1 cable in and 1 out.
+Litle "T" connector that allow to have 1 cable in and 1 out.  
