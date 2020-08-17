@@ -25,5 +25,4 @@ As it had enough pins to handle itself the whole panel of 4 blocks, which means 
 Now that there is only 1 device to control the panel, there in no more syncronisation problems and the panel can be driven by serial or any other comunication moudule as the Arduino Mega had 28 digital pins left !
 
 <img src="https://drive.google.com/uc?export=view&id=1UV1w-VNGknujMfFwQaMb4J9AQgGO6ySy"  width="400">
-<iframe src="https://drive.google.com/file/d/1UEGm_TBCiwB-6LCpGbMTuL6lmLDx_gqd/preview" width="640" height="480"></iframe>
 [![Alternate Text]({image-url})]({https://drive.google.com/file/d/1UEGm_TBCiwB-6LCpGbMTuL6lmLDx_gqd/preview} "Link Title")
